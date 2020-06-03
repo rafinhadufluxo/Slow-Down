@@ -1,5 +1,9 @@
 # SlowDown
 
+First install the dependencies, using this command in the terminal
+
+        npm i
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
 ## Development server
