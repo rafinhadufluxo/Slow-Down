@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "So track boa animals",
+      "price": "10.99"
+    },
+    {
+      "id": 2,
+      "name": "Copo Wekeend house",
+      "price": "0.99"
+    },
+    {
+      "id": 3,
+      "name": "Ingresso",
+      "price": "75.89"
+    },
+    {
+      "name": "formulario",
+      "price": "1,99",
+      "id": 4
+    }
+    
+  ]
+}
