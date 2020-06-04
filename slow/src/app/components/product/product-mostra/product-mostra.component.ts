@@ -10,7 +10,7 @@ import { Component, OnInit } from '@angular/core';
 export class ProductMostraComponent implements OnInit {
 
   products: Product[]
-  displayedColumns = ['id', 'name', 'price', 'action']
+  displayedColumns = ['id', 'name', 'price']
   
   constructor(private productService: ProductService) { }
 
